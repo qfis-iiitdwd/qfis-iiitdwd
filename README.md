@@ -12,14 +12,6 @@ Our goal is to explore these problems by learning, researching and building real
 
 We focus on four interconnected areas:
 
-### Quantitative Research
-Exploring mathematical and computational approaches to financial markets.
-
-- Quantitative modelling and alpha research
-- Statistical arbitrage and time-series analysis
-- Derivatives and options pricing
-- Market microstructure and simulation
-
 ### Machine Learning
 Applying machine learning to financial data and decision systems.
 
